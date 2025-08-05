@@ -20,7 +20,7 @@ I bring a strong background in genomics, ecology, statistics, and data science. 
 
 ## 📚 Publications
  
-- [Exploring the Potential of Indigenous Microorganisms for the Fermentation of Table Olives: Microbial Dynamics and Product Quality](https://www.mdpi.com/2311-5637/10/9/446) (MDPI, 2024)
+- [Research Trends in the Recovery of By-Products from Organic Waste Treated by Anaerobic Digestion: A 30-Year Bibliometric Analysis](https://www.mdpi.com/2311-5637/10/9/446) (MDPI, 2024)
 
 ---
 
