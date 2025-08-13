@@ -6,7 +6,7 @@
 
 ---
 
-## About Me
+## 🙋‍♂️ About Me
 
 My fascination with biology began at age 4, when I discovered dinosaurs. Since the Human Genome Project, I've been convinced that bioinformatics is the key to unlocking biology’s greatest challenges. I aim to apply computational tools to solve real-world biological problems and make a tangible impact.
 
@@ -59,7 +59,7 @@ I bring a strong background in genomics, ecology, statistics, and data science. 
 
 ---
 
-## Goals on GitHub
+## 🎯 Goals on GitHub
 
 - Develop & share bioinformatics projects
 - Improve my coding skills and gain in-depth programming knowledge
@@ -67,7 +67,7 @@ I bring a strong background in genomics, ecology, statistics, and data science. 
 
 ---
 
-## Contact
+## 📧 Contact
 
 Feel free to reach out for collaboration or to discuss bioinformatics!
 
