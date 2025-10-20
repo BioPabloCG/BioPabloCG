@@ -1,7 +1,7 @@
 # Hi, I'm Pablo Castillo García 👋
 
 🧬 **Biologist** | MSc **Bioinformatics & Biostatistics**  
-🌍 Based in Germany, moving to Sevilla (Spain) soon  
+🌍 Based in Sevilla (Spain)
 🏢 Intern at **Biotfy** & Master's thesis at **CABIMER**
 
 ---
