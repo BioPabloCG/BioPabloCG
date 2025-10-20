@@ -2,7 +2,7 @@
 
 🧬 **Biologist** | MSc **Bioinformatics & Biostatistics**  
 🌍 Based in Germany, moving to Sevilla (Spain) soon  
-🏢 Incoming intern at **Biotfy** & Master's thesis at **CABIMER**
+🏢 Intern at **Biotfy** & Master's thesis at **CABIMER**
 
 ---
 
