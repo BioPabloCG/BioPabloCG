@@ -73,6 +73,6 @@ I bring a strong background in genomics, ecology, statistics, and data science. 
 Feel free to reach out for collaboration or to discuss bioinformatics!
 
 - [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:pablocastillo909@gmail.com) 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/pablo-castillo-garcía-637a1816a) 
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-c-637a1816a/?skipRedirect=true) 
 
 ---
